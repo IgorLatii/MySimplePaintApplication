@@ -43,18 +43,4 @@ The code for this application is:
 - **Buildable**: With a standard Android development setup (Android Studio, Gradle, Java), the app can be built without any additional setup.
 - **Fully Functional**: Once built, it works out-of-the-box as a standalone drawing application.
 
-## Prerequisites for Building:
-
-To build and run the app, ensure:
-1. **Android Studio**: Installed and configured with an updated SDK.
-2. **Gradle Build System**: Included in your development setup (handled by Android Studio).
-3. **Dependencies**: The additional libraries (like AmbilWarna or Android Signature Pad) will be fetched automatically via Gradle.
-
-## How to Use:
-
-1. Clone the source code.
-2. Open the project in Android Studio.
-3. Build the project using Gradle.
-4. Install the app on an Android device (minimum Android 10).
-
 This simple app can serve as a template for larger projects or be used as-is for tasks requiring freehand drawing or digital signatures.
